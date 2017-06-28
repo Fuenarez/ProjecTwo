@@ -1,0 +1,22 @@
+{
+  "name": "miguel",
+  "homepage": "www.mike.com",
+  "authors": [
+    "mike"
+  ],
+  "description": "miguel",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
